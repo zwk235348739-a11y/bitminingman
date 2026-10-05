@@ -1,0 +1,2 @@
+# bitminingman
+crypto miner repair
